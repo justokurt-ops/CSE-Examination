@@ -1,11 +1,11 @@
-# CSE-Examination
+kurt cloyde justo
 
-Instructions:
+You start at home (0,0) on a map.
 
-Fork this repo and clone the fork onto your local computer.
+You give directions (N, S, E, W) to walk around.
 
-Make sure to create a local branch name examination/midterm-python-exam and accomplish the task given in that branch.
+After each step, the program tells you your current location.
 
-Modify this README.md file to explain your code.
+If you type STOP, your walk ends.
 
-Push the activity back to your forked remote repo.
+At the end, it shows your final position and tells you if you came back to home (0,0) or not.
